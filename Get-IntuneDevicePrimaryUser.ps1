@@ -9,7 +9,7 @@ function Get-IntuneDevicePrimaryUser {
 		.DESCRIPTION
 		Retrieves the primary user for an Intune managed device.
         Things to change to deploy in your environment:
-        Line 29: replace x with clientID of your reigstered app. See https://docs.microsoft.com/en-us/graph/auth-v2-user for more info.
+        Line 29: replace x with clientID of your reigstered app. See https://bit.ly/3KApKhJ for more info.
 		===========================================================================
 		.PARAMETER Name
 		Required - Name of device to query.

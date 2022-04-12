@@ -9,7 +9,7 @@ function Rename-IntuneDevice {
 		.DESCRIPTION
 		Renames an Intune managed device.
         Things to change to deploy in your environment:
-        Line 57: replace x with clientID of your reigstered app. See https://docs.microsoft.com/en-us/graph/auth-v2-user for more info.
+        Line 57: replace x with clientID of your reigstered app. See https://bit.ly/3KApKhJ for more info.
 		===========================================================================
 		.PARAMETER Device
 		Required if not using all or bulk switch - Name of device to rename.

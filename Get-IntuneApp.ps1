@@ -9,7 +9,7 @@ function Get-IntuneApp {
 		.DESCRIPTION
 		Retrieves Intune managed app.
         Things to change to deploy in your environment:
-        Line 36: replace x with clientID of your reigstered app. See https://docs.microsoft.com/en-us/graph/auth-v2-user for more info.
+        Line 36: replace x with clientID of your reigstered app. See https://bit.ly/3KApKhJ for more info.
 		===========================================================================
 		.PARAMETER App
 		Required if not using All switch - Name of the app to retrieve.

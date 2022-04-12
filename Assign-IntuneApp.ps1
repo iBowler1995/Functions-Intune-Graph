@@ -9,7 +9,7 @@ function Assign-IntuneApp {
 		.DESCRIPTION
 		Adds or removes Intune App assignment using AAD group.
         Things to change to deploy in your environment:
-        Line 40: replace x with clientID of your reigstered app. See https://docs.microsoft.com/en-us/graph/auth-v2-user for more info.
+        Line 40: replace x with clientID of your reigstered app. See https://bit.ly/3KApKhJ for more info.
 		===========================================================================
 		.PARAMETER App
 		Required - Name of the app to assign.

@@ -10,7 +10,7 @@ function Reset-IntuneDevice {
 		Resets an Intune managed device.
         For more info on Wipe vs. Retire vs. Delete, see https://karstenkleinschmidt.de/2020/09/09/intune-what-is-retire-wipe-delete-fresh-start-autopilot-reset/
         Things to change to deploy in your environment:
-        Line 78: replace x with clientID of your reigstered app. See https://docs.microsoft.com/en-us/graph/auth-v2-user for more info.
+        Line 78: replace x with clientID of your reigstered app. See https://bit.ly/3KApKhJ for more info.
 		===========================================================================
 		.PARAMETER Device
 		Required  - Name of the device to reset.
