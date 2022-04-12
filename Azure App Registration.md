@@ -22,5 +22,5 @@
   * There are two options when applying API permissions: application and delegated
     * Application permission: these permissions are for automation purposes, and you can apply these if you'll be automating the functions without user intervention
     * Delegated: Allows the application to access the API on behalf of whichever user is authenticated (which means actions can be tracked by your organization)
-3. Use [this document](https://github.com/iBowler1995/LazyAzureAdministrator/blob/main/Knowledge%20Base/API%20Permissions.md) to configure appropriate API permissions for lAZy
+3. Use [this document](https://github.com/iBowler1995/LazyAzureAdministrator/blob/main/Knowledge%20Base/API%20Permissions.md) to configure appropriate API permissions
 4. Once all permissions are applied, hit the checkmark that syas "Grant admin consent for [organization]," or else users won't be able to access AAD/Intune
